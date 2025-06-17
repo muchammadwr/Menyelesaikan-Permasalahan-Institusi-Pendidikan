@@ -82,7 +82,7 @@ streamlit run app.py
 ```
 
 3. Menjalankan streamlit di web app
-   link streamlit:
+   link streamlit: https://studentperformawildan.streamlit.app/
 
 ## Conclusion
 
